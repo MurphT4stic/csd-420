@@ -1,0 +1,10 @@
+/* Tabari Harvey, Module-7 Programming assignment, mystyle.css */
+.white-fill {
+    fill: white;
+    stroke: black;
+}
+
+#red-green {
+    fill: red;
+    stroke: green;
+}
